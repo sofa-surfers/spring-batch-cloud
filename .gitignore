@@ -1,0 +1,10 @@
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+.project
+*.launch
+.classpath
+.springBeans
