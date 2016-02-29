@@ -8,3 +8,6 @@ tmp/
 *.launch
 .classpath
 .springBeans
+.DS_Store
+.git
+.settings
